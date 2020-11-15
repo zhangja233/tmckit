@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #VASP package utility
-
+# some bugs exist about angular moment
 import copy
 import commands,sys,string,math,re, subprocess,shutil 
 
